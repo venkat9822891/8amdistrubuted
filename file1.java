@@ -6,7 +6,7 @@ public class Login_page {
         System.out.println("Enter the Username");
         String uname = sc.nextLine();
         if((uname.contains(sp)) || uname.length()<4){
-            System.out.println("Invalid Username by yoga");
+            System.out.println("Invalid Username by yoga2");
             return;
         }
 
